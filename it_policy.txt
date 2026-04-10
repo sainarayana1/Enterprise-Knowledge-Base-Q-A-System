@@ -1,0 +1,13 @@
+IT Security Policy
+
+Password Rules:
+Passwords must be at least 12 characters long.
+
+Data Protection:
+Sensitive data must not be shared externally.
+
+System Access:
+Access to internal systems is role-based.
+
+Incident Reporting:
+Security incidents must be reported within 24 hours.
