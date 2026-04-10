@@ -1,6 +1,6 @@
-streamlit
+streamlit==1.32.0
 faiss-cpu==1.7.4
-sentence-transformers
-transformers
-torch
+sentence-transformers==2.2.2
+transformers==4.38.2
+torch==2.0.1
 PyPDF2
